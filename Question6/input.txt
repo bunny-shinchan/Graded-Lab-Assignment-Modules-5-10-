@@ -1,0 +1,3 @@
+Sudhanshu Verma is learning shell scripting.
+Shell scripting is powerful and useful.
+
